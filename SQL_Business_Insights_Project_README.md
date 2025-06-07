@@ -1,7 +1,7 @@
 
 # 📊 SQL Project: Business Insights from Superstore Sales Data
 
-## 🧠 Project Objective
+##  Project Goal
 Use SQL to analyze customer behavior, product sales, and revenue growth from a Superstore dataset. This project simulates real business problems and shows how SQL can be used for decision-making.
 
 ---
@@ -37,7 +37,7 @@ GROUP BY customer_type;
 
 ---
 
-## 🔁 Insight 2: Is our monthly revenue growing?
+##  Insight 2: Is our monthly revenue growing?
 
 ```sql
 SELECT 
@@ -54,7 +54,7 @@ ORDER BY year, month;
 
 ---
 
-## 📉 Insight 3: Are we seeing customer churn?
+##  Insight 3: Are we seeing customer churn?
 
 ```sql
 WITH last_order AS (
@@ -76,12 +76,9 @@ ORDER BY days_since_last_order DESC;
 
 ---
 
-## 🧰 Tools Used
+##  Tools Used
 - SQL (PostgreSQL-style syntax)
 - Dataset: Superstore Sales Data
-- Platform: Can be executed in PostgreSQL, BigQuery, or any SQL client with support for window functions
-
----
 
 ## 📬 Contact
 **Author**: Diviyah  
