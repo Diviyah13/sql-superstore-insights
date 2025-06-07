@@ -2,7 +2,7 @@
 # 📊 SQL Project: Business Insights from Superstore Sales Data
 
 ##  Project Goal
-Use SQL to analyze customer behavior, product sales, and revenue growth from a Superstore dataset. This project simulates real business problems and shows how SQL can be used for decision-making.
+Used SQL to analyze customer behavior, product sales, and revenue growth from a Superstore dataset. This project simulates real business problems and shows how SQL can be used for decision-making.
 
 ---
 
